@@ -6,5 +6,5 @@
 - Terminale girip `npm install` yazın.
 - Modüller indikten sonra terminale `node gloxy.js` yazarak botu başlatın.
 
-- Herhangi bir sorunda discord.gg/serendia girip @Gloxy#0313 bana ulaşın.
+- Herhangi bir sorunda [Bu sunucuya](https://discord.gg/ev4PWMaVGA) girip @Gloxy#0313 bana ulaşın.
 - Cross oğluşuma yardımları için teşekkür ederim.
