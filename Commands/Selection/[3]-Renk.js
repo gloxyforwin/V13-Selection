@@ -15,10 +15,10 @@ module.exports = {
     
   async execute(message, args, client) {
 
-/*if (message.author.id != config.Bot.OwnerID) {
+if (message.author.id != config.Bot.OwnerID) {
 message.react(config.Emojies.Red)
 return;
-}*/
+}
         
 const renkMenu = new Discord.MessageActionRow().addComponents(
 new Discord.MessageSelectMenu()
