@@ -1,0 +1,35 @@
+{
+    "Bot": {
+        "Token": "",
+        "OwnerID": "",
+        "GuildID": "",
+        "VoiceChannelID": "",
+        "Activity": "",
+        "Prefix": ""
+    },
+
+    "Katılım": {
+        "EtkinlikKatılımcısı": "",
+        "ÇekilişKatılımcısı": ""
+    },
+
+    "İlişki": {
+        "SevgilimVar": "",
+        "SevgilimYok": ""
+    },
+
+    "Emojies": {
+        "Star": "",
+        "Red": "",
+        "Green": ""
+    },
+
+    "Renk": {
+        "Kırmızı": "",
+        "Turuncu": "",
+        "Lacivert": "",
+        "Yeşil": "",
+        "Mor": "",
+        "Pembe": ""
+    }
+}
